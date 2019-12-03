@@ -1,3 +1,31 @@
+body {
+    background-image: url(what-the-hex-dark.png);
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+section {
+    background-color: green;
+}
+
+h1 {
+    background-color: purple;
+}
+
 #box1 {
     background-color: blue;
+}
+
+#box2 {
+    background-color: yellow;
+}
+
+#box3 {
+    background-color: red;
+}
+
+.About{
+    height: 350px;
 }
