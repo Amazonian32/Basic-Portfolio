@@ -1,25 +1,26 @@
 body {
     position: relative;
-    background-color: #BDC5F2;
+    background-color: #51232D; /* Used if the image is unavailable */
+    color: #262323;
 }
 
 
 
 section {
-    background-color: #C9DFF2;
+    background-color: #8C3E44;
     height: 75px;
     margin: -8px -8px 20px -8px;
 }
 
 h1 {
-    background-color: #C4EEF2;
+    background-color: #403236;
     float: left;
     text-align: center;
     padding: 23px;
     margin: 0px;
     margin-left: 180px;
     position: relative;
-    
+    color: #A4A6A5;
 }
 
 #box3 {
@@ -54,14 +55,11 @@ h1 {
 
 
 .About{
-    background-color: #C4EEF2;
+    background-color: #A4A6A5;
     _height: 550px;
     padding: 20px;
     margin: 20px 175px;
     flex-wrap: wrap;
-}
-h2 {
-
 }
 img {
     height: 250px;
