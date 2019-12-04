@@ -1,0 +1,48 @@
+body {
+    position: relative;
+    background-color: #BDC5F2;
+}
+
+
+
+section {
+    background-color: #C9DFF2;
+    height: 75px;
+    margin: -8px -8px 20px -8px;
+}
+
+h1 {
+    background-color: #C4EEF2;
+    float: left;
+    text-align: center;
+    padding: 23px;
+    margin: 0px;
+    margin-left: 180px;
+    position: relative;
+    
+}
+
+#box3 {
+    _background-color: blue;
+    float: right;
+    padding: 28px 30px;
+    margin: 0px;
+   
+}
+
+#box2 {
+    _background-color: yellow;
+    float: right;
+    padding: 28px;
+    margin: 0px;
+    
+}
+
+#box1 {
+    _background-color: red;
+    float: right;
+    padding: 28px 35px;
+    margin: 0px;
+    margin-right: 150px;
+    
+}
