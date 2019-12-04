@@ -2,4 +2,45 @@
     background-color: #A4A6A5;
     margin: 20px 175px;
     padding: 30px;
+    flex-wrap: wrap;
+}
+.Thing1 {
+    background-color: #fff;
+    float: left;
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
+}
+.Thing2 {
+    background-color: brown;
+    float: left;
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
+}
+.Thing3 {
+    background-color: blue;
+    float: left;
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
+}
+.Thing4 {
+    background-color: pink;
+    float: left;
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
+}
+.Thing5 {
+    background-color:red;
+    float: left;
+    height: 200px;
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
 }
