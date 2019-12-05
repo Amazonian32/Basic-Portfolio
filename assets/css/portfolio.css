@@ -5,5 +5,16 @@
     padding: 20px;
     margin: 15px 480px;
     flex-wrap: wrap;
-    
+}
+.clearfix {
+    overflow: auto;
+}
+
+.goal1 {
+    background-color: blue;
+    padding: 15px;
+    width: 295px;
+    height: 25px;
+    position: absolute;
+    margin-left: 20px;
 }
