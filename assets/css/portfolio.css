@@ -11,10 +11,49 @@
 }
 
 .goal1 {
-    background-color: blue;
+    background-color: #8C3E44;
     padding: 15px;
     width: 295px;
     height: 25px;
     position: absolute;
     margin-left: 20px;
+    top: 3in;
+}
+.goal2 {
+    background-color: #8C3E44;
+    padding: 15px;
+    width: 295px;
+    height: 25px;
+    position: absolute;
+    margin-left: 20px;
+    top: 3in;
+    right: 2.81in;
+}
+.goal3 {
+    background-color: #8C3E44;
+    padding: 15px;
+    width: 295px;
+    height: 25px;
+    position: absolute;
+    margin-left: 20px;
+    top: 6in;
+}
+.dreaming {
+    background-color: #8C3E44;
+    padding: 15px;
+    width: 295px;
+    height: 25px;
+    position: absolute;
+    margin-left: 20px;
+    top: 6in;
+    right: 2.81in;
+}
+.videogames {
+    background-color: #8C3E44;
+    padding: 15px;
+    width: 295px;
+    height: 25px;
+    position: absolute;
+    margin-left: 20px;
+    top: 9in;
 }
