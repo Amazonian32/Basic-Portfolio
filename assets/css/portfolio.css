@@ -4,7 +4,8 @@
     width: 960px;
     padding: 20px;
     margin: 15px 480px;
-    flex-wrap: wrap;
+    height: 1000px;
+    font-family: 'Arimo', sans-serif;
 }
 
 .goal1 {

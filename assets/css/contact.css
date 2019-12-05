@@ -4,6 +4,7 @@
     padding: 30px;
     margin: 15px 480px;
     flex-wrap: wrap;
+    font-family: 'Arimo', sans-serif;
 }
 #Name, #Email, #Message {
     position: relative;
