@@ -5,3 +5,6 @@
     margin: 15px 480px;
     flex-wrap: wrap;
 }
+#Name, #Email, #Message {
+    position: relative;
+}
