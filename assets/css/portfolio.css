@@ -1,8 +1,9 @@
 .Portfolio {
+    position: relative;
     background-color: #A4A6A5;
     width: 960px;
     padding: 20px;
     margin: 15px 480px;
     flex-wrap: wrap;
-}
+    
 }
