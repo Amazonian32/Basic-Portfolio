@@ -1,12 +1,14 @@
 body {
     position: relative;
-    background-color: #51232D; /* Used if the image is unavailable */
+    background-color: #51232D; 
     color: #262323;
+}
+header {
+    margin-top: ;
 }
 
 
-
-section {
+header {
     background-color: #8C3E44;
     height: 75px;
     margin: -8px -8px 20px -8px;
@@ -23,35 +25,6 @@ h1 {
     color: #A4A6A5;
 }
 
-#box3 {
-    _background-color: blue;
-    float: right;
-    padding: 28px 30px;
-    margin: 0px;
-   
-}
-
-#box2 {
-    _background-color: yellow;
-    float: right;
-    padding: 28px;
-    margin: 0px;
-    
-}
-
-#box1 {
-    _background-color: red;
-    float: right;
-    padding: 28px 35px;
-    margin: 0px;
-    margin-right: 400px;
-    
-}
-
-
-
-
-
 
 
 .About{
@@ -65,11 +38,4 @@ img {
     height: 250px;
     padding: 20px;
     float: left;
-}
-p {
-   _background-color: tan; 
-   font-size: 22px;
-   
-
-
 }
