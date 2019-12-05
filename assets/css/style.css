@@ -18,13 +18,17 @@ h1 {
     background-color: #403236;
     float: left;
     text-align: center;
-    padding: 24px;
+    padding: 19px;
     margin: 0px;
-    margin-left: 475px;
+    margin-left: 400px;
     position: relative;
     color: #A4A6A5;
 }
-
+h3 {
+    float: right;
+    margin-right: 400px;
+    word-spacing: 10px;
+}
 
 
 .About{
