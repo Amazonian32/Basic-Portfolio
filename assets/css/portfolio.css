@@ -64,40 +64,45 @@ h2 {
 .Thing6 {
     background-color: #fff;
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 40px;
+    width: 325px;
     font-size: 24px;
     text-align: center;
+    z-index: 3;
 }
 .Thing7 {
     background-color: brown;
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 40px;
+    width: 325px;
     font-size: 24px;
     text-align: center;
+    z-index: 3;
 }
 .Thing8 {
     background-color: blue;
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 40px;
+    width: 325px;
     font-size: 24px;
     text-align: center;
+    z-index: 3;
 }
 .Thing9 {
     background-color: pink;
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 40px;
+    width: 325px;
     font-size: 24px;
     text-align: center;
+    z-index: 3;
 }
 .Thing0 {
     background-color:red;
     float: left;
-    height: 200px;
-    width: 200px;
+    height: 40px;
+    width: 325px;
     font-size: 24px;
     text-align: center;
+    z-index: 3;
 }
