@@ -6,6 +6,7 @@
     margin: 15px 480px;
     height: 1000px;
     font-family: 'Arimo', sans-serif;
+    font-weight: bold;
 }
 
 .goal1 {
@@ -16,6 +17,7 @@
     position: absolute;
     margin-left: 20px;
     top: 3in;
+    text-align: center;
 }
 .goal2 {
     background-color: #8C3E44;
@@ -26,6 +28,7 @@
     margin-left: 20px;
     top: 3in;
     right: 2.81in;
+    text-align: center;
 }
 .goal3 {
     background-color: #8C3E44;
@@ -35,6 +38,7 @@
     position: absolute;
     margin-left: 20px;
     top: 6in;
+    text-align: center;
 }
 .dreaming {
     background-color: #8C3E44;
@@ -45,6 +49,7 @@
     margin-left: 20px;
     top: 6in;
     right: 2.81in;
+    text-align: center;
 }
 .videogames {
     background-color: #8C3E44;
@@ -54,4 +59,12 @@
     position: absolute;
     margin-left: 20px;
     top: 9in;
+    text-align: center;
 }
+
+  footer {
+    background: #42A5F5;
+    color: white;
+    line-height: 50px;
+    padding: 0 20px;
+  }
