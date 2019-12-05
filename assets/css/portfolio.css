@@ -6,9 +6,6 @@
     margin: 15px 480px;
     flex-wrap: wrap;
 }
-.clearfix {
-    overflow: auto;
-}
 
 .goal1 {
     background-color: #8C3E44;
